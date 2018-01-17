@@ -39,6 +39,11 @@
 
   - React
     1. [文档](https://doc.react-china.org/)
+    2. [Redux官方文档](http://cn.redux.js.org/)
+    3. [Redux中文社区](http://www.redux.org.cn/)
+    4. [Next.js](https://zeit.co/blog/next4)
+    5. [Next.js中文文档](http://react-china.org/t/next-js/12525)
+    6. [Next.js掘金博客](https://juejin.im/entry/59791d8f6fb9a03c391b557e)
     
   - Angular
     1. [官方文档](https://angular.cn/)
@@ -47,11 +52,36 @@
     1. [文档](http://riotjs.com/v2/zh/)
     
   - Koa
+    
+    > Express升级后的框架，抽象设计更彻底，强大、自由、灵活
+    
     1. [文档](https://koa.bootcss.com/)
   
   - Express
+    
+    >  Node.js开发最容易上手的业务应用开发框架
+    
     1. [文档](http://expressjs.com/zh-cn/)
     
+  - MobX
+    > 简单、可扩展的状态管理
+    1. [教程](http://cn.mobx.js.org/)
+  
+  - RxJS
+    > 函数式编程最经典的框架
+    1. [中文文档](http://cn.rx.js.org/)
+  
+  - Three.js
+    > 3D和游戏必用的JS库
+    1. [官方网站](https://threejs.org/)
+    2. [基础入门-中文网](http://www.hewebgl.com/article/articledir/1)
+  
+  - d3.js
+    > 数据图表中最强的类库
+    1. [官方网站](https://d3js.org/)
+    2. [中文文档](https://github.com/xswei/d3js_doc)
+ 
+    
 ### CSS教程
 
   - Less
