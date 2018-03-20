@@ -119,6 +119,12 @@
     1. [ES5新特性与ES3的对比](http://www.hahack.com/wiki/javascript-es5.html#es5-%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7)
     2. [ES5新特性博客](http://pij.robinqu.me/JavaScript_Core/ECMAScript/es5.html)
 
+
+### 服务端教程
+
+  - [Nginx入门](http://cnt1992.xyz/2016/03/18/simple-intro-to-nginx/)
+  - [Nginx入门与精通（高级）](http://tengine.taobao.org/book/#)
+
 ### 好玩的网站
 
   - [刷题的酷站：leetcode](https://leetcode.com/)
