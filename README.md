@@ -130,3 +130,8 @@
 
   - [刷题的酷站：leetcode](https://leetcode.com/)
   - [各种精美的微型前端库](http://microjs.com/)
+
+### 开源图标
+
+  - [NPM 图标](https://nodei.co/)
+  - [小图标](https://shields.io/)
