@@ -79,6 +79,7 @@
     > 3D和游戏必用的JS库
     1. [官方网站](https://threejs.org/)
     2. [基础入门-中文网](http://www.hewebgl.com/article/articledir/1)
+    3. [中文文档+示例](https://teakki.com/p/58a3ef1bf0d40775548c908f)
 
   - d3.js
     > 数据图表中最强的类库
