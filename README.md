@@ -135,3 +135,8 @@
 
   - [NPM 图标](https://nodei.co/)
   - [小图标](https://shields.io/)
+
+### 视频技术
+
+  - [ flv 转 fmp4 ](https://blog.csdn.net/g332065255/article/details/71158863)
+  - [ MSE ](https://www.w3.org/TR/media-source/)
