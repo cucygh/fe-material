@@ -86,10 +86,11 @@
     1. [官方网站](https://d3js.org/)
     2. [中文文档](https://github.com/xswei/d3js_doc)
 
-  - Raphael
-    > 非常漂亮的矢量图表库
-    1. [官方](http://dmitrybaranovskiy.github.io/raphael/)
-    2. []()
+  - HTML5 动画库
+    > 标准动画库和SVG动画库
+    1. [Raphael](http://dmitrybaranovskiy.github.io/raphael/)
+    2. [segment](http://lmgonzalves.github.io/segment/)
+    3. [GSAP](https://greensock.com/gsap)
 
     
 ### CSS教程
