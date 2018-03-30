@@ -92,6 +92,7 @@
     2. [segment](http://lmgonzalves.github.io/segment/)
     3. [GSAP](https://greensock.com/gsap)
     4. [anime](http://animejs.com/)
+    5. [免费 SVG 图标](https://icomoon.io)
 
     
 ### CSS教程
