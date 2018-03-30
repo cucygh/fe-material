@@ -91,6 +91,7 @@
     1. [Raphael](http://dmitrybaranovskiy.github.io/raphael/)
     2. [segment](http://lmgonzalves.github.io/segment/)
     3. [GSAP](https://greensock.com/gsap)
+    4. [anime](http://animejs.com/)
 
     
 ### CSS教程
