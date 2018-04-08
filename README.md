@@ -32,7 +32,9 @@
   - Lerna
     1. [官方文档](https://github.com/lerna/lerna)
     2. [入门介绍](https://www.jianshu.com/p/63ec67445b0f)
-
+  
+  - Eslint
+    1. [vue eslint](https://mysticatea.github.io/vue-eslint-demo/)
 ### 前端框架
 
   - Vue
