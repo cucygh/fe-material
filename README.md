@@ -135,6 +135,7 @@
 
   - [刷题的酷站：leetcode](https://leetcode.com/)
   - [各种精美的微型前端库](http://microjs.com/)
+  - [代码高亮](https://c7sky.com/syntax-highlighting-with-prismjs.html)
 
 ### 开源图标
 
