@@ -150,4 +150,4 @@
 ### 动画技术
 
   - [lottie](http://airbnb.io/lottie/)
-  - [贝塞尔曲线扫盲](http://www.html-js.com/article/1628)
+  - [贝塞尔曲线扫盲](http://www.html-js.com/article/1628)
