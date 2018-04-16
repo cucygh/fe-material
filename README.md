@@ -151,3 +151,4 @@
   - [lottie](http://airbnb.io/lottie/)
   - [贝塞尔曲线扫盲](http://www.html-js.com/article/1628)
   - [帧补偿工具](https://gka.js.org/#/?id=%E5%AE%89%E8%A3%85)
+  - [简单的动画库](http://dynamicsjs.com/)
