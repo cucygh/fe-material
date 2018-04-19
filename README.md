@@ -152,3 +152,9 @@
   - [贝塞尔曲线扫盲](http://www.html-js.com/article/1628)
   - [帧补偿工具](https://gka.js.org/#/?id=%E5%AE%89%E8%A3%85)
   - [简单的动画库](http://dynamicsjs.com/)
+
+### 游戏方向
+  - [3D 编辑器](https://docs.blender.org/manual/zh-hans/dev/getting_started/index.html)
+  - [cocos2d引擎](http://www.cocos.com/docs/native/)
+  - [three.js](https://threejs.org/)
+  - [unity3d](https://unity3d.com/cn)
