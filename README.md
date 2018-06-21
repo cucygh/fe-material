@@ -34,7 +34,9 @@
   - Lerna
     1. [官方文档](https://github.com/lerna/lerna)
     2. [入门介绍](https://www.jianshu.com/p/63ec67445b0f)
-
+  
+  - Eslint
+    1. [vue eslint](https://mysticatea.github.io/vue-eslint-demo/)
 ### 前端框架
 
   - Vue
@@ -135,6 +137,7 @@
 
   - [刷题的酷站：leetcode](https://leetcode.com/)
   - [各种精美的微型前端库](http://microjs.com/)
+  - [代码高亮](https://c7sky.com/syntax-highlighting-with-prismjs.html)
 
 ### 开源图标
 
@@ -145,3 +148,15 @@
 
   - [ flv 转 fmp4 ](https://blog.csdn.net/g332065255/article/details/71158863)
   - [ MSE ](https://www.w3.org/TR/media-source/)
+ 
+### 动画技术
+  - [lottie](http://airbnb.io/lottie/)
+  - [贝塞尔曲线扫盲](http://www.html-js.com/article/1628)
+  - [帧补偿工具](https://gka.js.org/#/?id=%E5%AE%89%E8%A3%85)
+  - [简单的动画库](http://dynamicsjs.com/)
+
+### 游戏方向
+  - [3D 编辑器](https://docs.blender.org/manual/zh-hans/dev/getting_started/index.html)
+  - [cocos2d引擎](http://www.cocos.com/docs/native/)
+  - [three.js](https://threejs.org/)
+  - [unity3d](https://unity3d.com/cn)
