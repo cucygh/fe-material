@@ -34,7 +34,7 @@
   - Lerna
     1. [官方文档](https://github.com/lerna/lerna)
     2. [入门介绍](https://www.jianshu.com/p/63ec67445b0f)
-  
+
   - Eslint
     1. [vue eslint](https://mysticatea.github.io/vue-eslint-demo/)
 ### 前端框架
@@ -98,6 +98,11 @@
     4. [anime](http://animejs.com/)
     5. [免费 SVG 图标](https://icomoon.io)
 
+  - 视频播放器
+    > 好用的视频播放器
+    1. [xgplayer](https://github.com/bytedance/xgplayer)
+    2. [video.js](https://github.com/videojs/video.js)
+    3. [mediaelement](https://github.com/mediaelement/mediaelement)
     
 ### CSS教程
 
@@ -148,7 +153,7 @@
 
   - [ flv 转 fmp4 ](https://blog.csdn.net/g332065255/article/details/71158863)
   - [ MSE ](https://www.w3.org/TR/media-source/)
- 
+
 ### 动画技术
   - [lottie](http://airbnb.io/lottie/)
   - [贝塞尔曲线扫盲](http://www.html-js.com/article/1628)
