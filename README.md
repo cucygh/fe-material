@@ -44,6 +44,7 @@
     2. [路由](https://router.vuejs.org/)
     3. [Vuex](https://vuex.vuejs.org/)
     4. [SSR](https://ssr.vuejs.org/)
+    5. [Nuxt.js](https://zh.nuxtjs.org/)
 
   - React
     1. [文档](https://doc.react-china.org/)
