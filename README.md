@@ -151,6 +151,8 @@
 
   - [NPM 图标](https://nodei.co/)
   - [小图标](https://shields.io/)
+  - [免费 SVG](https://icomoon.io/app/#/select)
+  - [免费 矢量图](http://www.iconfont.cn/)
 
 ### 视频技术
 
