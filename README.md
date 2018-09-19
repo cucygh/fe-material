@@ -159,17 +159,20 @@
 
   - [ flv 转 fmp4 ](https://blog.csdn.net/g332065255/article/details/71158863)
   - [ MSE ](https://www.w3.org/TR/media-source/)
+  - [ webassembly ](https://webassembly.org/)
 
 ### 动画技术
   - [lottie](http://airbnb.io/lottie/)
   - [贝塞尔曲线扫盲](http://www.html-js.com/article/1628)
   - [帧补偿工具](https://gka.js.org/#/?id=%E5%AE%89%E8%A3%85)
   - [简单的动画库](http://dynamicsjs.com/)
+  - [webassembly](https://webassembly.org/)
 
 ### 游戏方向
   - [3D 编辑器](https://docs.blender.org/manual/zh-hans/dev/getting_started/index.html)
   - [cocos2d引擎](http://www.cocos.com/docs/native/)
   - [three.js](https://threejs.org/)
   - [unity3d](https://unity3d.com/cn)
+  - [webassembly](https://webassembly.org/)
 ### 硬件方向
   - [Robotics & IoT Platform](http://johnny-five.io/)
