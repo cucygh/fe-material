@@ -144,3 +144,6 @@
   - [asm.js](http://asmjs.org/)
 ### 硬件方向
   - [Robotics & IoT Platform](http://johnny-five.io/)
+### 神秘工具
+  - [表格工具](https://help.gnome.org/users/gnumeric/stable/gnumeric.html#chapter-welcome)
+  - [shelljs](https://github.com/shelljs/shelljs)
