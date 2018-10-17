@@ -43,7 +43,7 @@
     2. [Redux官方文档](http://cn.redux.js.org/)
     3. [Redux中文社区](http://www.redux.org.cn/)
     4. [Next.js](https://zeit.co/blog/next4)
-    5. [Next.js中文文档](http://react-china.org/t/next-js/12525)
+    5. [Next.js中文文档](http://nextjs.frontendx.cn/docs)
     6. [Next.js掘金博客](https://juejin.im/entry/59791d8f6fb9a03c391b557e)
   - Angular
     1. [官方文档](https://angular.cn/)
