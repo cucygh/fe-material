@@ -38,6 +38,7 @@
     3. [Vuex](https://vuex.vuejs.org/)
     4. [SSR](https://ssr.vuejs.org/)
     5. [Nuxt.js](https://zh.nuxtjs.org/)
+    6. [Vue源码分析·免费](http://hcysun.me/vue-design/)
   - React
     1. [文档](https://doc.react-china.org/)
     2. [Redux官方文档](http://cn.redux.js.org/)
