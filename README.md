@@ -89,7 +89,10 @@
     1. [xgplayer](https://github.com/bytedance/xgplayer)
     2. [video.js](https://github.com/videojs/video.js)
     3. [mediaelement](https://github.com/mediaelement/mediaelement)
-    
+### 前端技术
+  - 内存泄漏
+    1. [JavaScript内存泄露和CSS优化](https://github.com/cucygh/js-leakage-patterns?organization=cucygh&organization=cucygh)
+    2. [内存泄漏](https://developers.google.com/web/tools/chrome-devtools/memory-problems/?hl=zh-cn)
 ### CSS教程
   - Less
     1. [文档](http://less.bootcss.com/)
