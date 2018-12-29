@@ -117,6 +117,7 @@
 ### 服务端教程
   - [Nginx入门](http://cnt1992.xyz/2016/03/18/simple-intro-to-nginx/)
   - [Nginx入门与精通（高级）](http://tengine.taobao.org/book/#)
+  - [Nginx配置大全](https://nginxconfig.io/)
 
 ### 好玩的网站
   - [刷题的酷站：leetcode](https://leetcode.com/)
