@@ -35,6 +35,9 @@
     1. [业界AST库](https://github.com/cucygh/AST-)
   - 自动化测试
     1. [jest](https://jestjs.io/zh-Hans/)
+  - Docker
+    1. [发布Node程序](https://nodejs.org/zh-cn/docs/guides/nodejs-docker-webapp/)
+    
 ### 前端框架
   - Vue
     1. [基本教程](https://cn.vuejs.org/)
