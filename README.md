@@ -37,6 +37,7 @@
     1. [jest](https://jestjs.io/zh-Hans/)
   - Docker
     1. [发布Node程序](https://nodejs.org/zh-cn/docs/guides/nodejs-docker-webapp/)
+    2. [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/why.html)
 
 ### 前端框架
   - Vue
