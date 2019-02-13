@@ -3,8 +3,8 @@
 整理最有趣的前端技术教程及文档，欢迎大家都来补充让更多的多学找到学习一手好资料
 
 ### 收藏夹
-  -[CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
-  -[javaScript 学习网站](https://learnjavascript.online)
+  - [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
+  - [javaScript 学习网站](https://learnjavascript.online)
 
 ### 前端工具
   - Git
