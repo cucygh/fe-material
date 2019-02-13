@@ -4,12 +4,12 @@
 
 ### 收藏夹
   #### 文档类
-    - [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
+   - [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
   #### 拓展类
-    - [javaScript 学习网站](https://learnjavascript.online)
+   - [javaScript 学习网站](https://learnjavascript.online)
 
 ### 前端工具
-  - Git
+   - Git
     1. [入门篇](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
     2. [高级篇](https://backlog.com/git-tutorial/cn/stepup/stepup1_1.html)
     3. [索引篇](https://backlog.com/git-tutorial/cn/reference/)
