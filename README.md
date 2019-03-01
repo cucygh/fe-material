@@ -38,6 +38,8 @@
   - Docker
     1. [发布Node程序](https://nodejs.org/zh-cn/docs/guides/nodejs-docker-webapp/)
     2. [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/why.html)
+  - 逆向工程
+    1. [压缩逆向恢复](http://www.jsnice.org/)
 
 ### 前端框架
   - Vue
