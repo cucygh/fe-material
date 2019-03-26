@@ -79,10 +79,11 @@
     1. [官方网站](https://threejs.org/)
     2. [基础入门-中文网](http://www.hewebgl.com/article/articledir/1)
     3. [中文文档+示例](https://teakki.com/p/58a3ef1bf0d40775548c908f)
-  - d3.js
+  - 数据图表
     > 数据图表中最强的类库
-    1. [官方网站](https://d3js.org/)
+    1. [D3官方网站](https://d3js.org/)
     2. [中文文档](https://github.com/xswei/d3js_doc)
+    3. [network图表](http://visjs.org/)
   - HTML5 动画库
     > 标准动画库和SVG动画库
     1. [Raphael](http://dmitrybaranovskiy.github.io/raphael/)
