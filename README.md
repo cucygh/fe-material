@@ -168,6 +168,7 @@
   - [shelljs](https://github.com/shelljs/shelljs)
   - [ip离线库](https://www.ipip.net/)
   - [录屏转gif工具](https://getkap.co/)
+  - [图片服务](https://picsum.photos/)
 ### 文档&文章
   - [会议PPT](https://myslide.cn/)
 ### 数据
