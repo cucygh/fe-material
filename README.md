@@ -27,8 +27,10 @@
   - Lerna
     1. [官方文档](https://github.com/lerna/lerna)
     2. [入门介绍](https://www.jianshu.com/p/63ec67445b0f)
-  - Eslint
+  - 代码质量
     1. [vue eslint](https://mysticatea.github.io/vue-eslint-demo/)
+    2. [htmlhint](https://htmlhint.io/)
+    3. [stylelint](https://stylelint.io/)
   - http-server
     1. [静态服务器](https://www.npmjs.com/package/http-server)
   - ast
@@ -40,6 +42,7 @@
     2. [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/why.html)
   - 逆向工程
     1. [压缩逆向恢复](http://www.jsnice.org/)
+
 
 ### 前端框架
   - Vue
