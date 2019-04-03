@@ -84,6 +84,7 @@
     1. [D3官方网站](https://d3js.org/)
     2. [中文文档](https://github.com/xswei/d3js_doc)
     3. [network图表](http://visjs.org/)
+    4. [MapBox](https://www.mapbox.com/)
   - HTML5 动画库
     > 标准动画库和SVG动画库
     1. [Raphael](http://dmitrybaranovskiy.github.io/raphael/)
