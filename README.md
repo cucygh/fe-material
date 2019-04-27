@@ -175,7 +175,9 @@
   - [图片服务](https://picsum.photos/)
   - [免费图标](https://www.easyicon.net/)
   - [在线转换字体](https://transfonter.org/)
+  - [数据转图片](https://quickchart.io/)
 ### 文档&文章
   - [会议PPT](https://myslide.cn/)
+  - [技术文档](https://devdocs.io/)
 ### 数据
   - [全国POI信息数据库](http://www.poilist.cn/)
