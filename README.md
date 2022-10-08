@@ -167,6 +167,8 @@
 - [简单的动画库](http://dynamicsjs.com/)
 - [webassembly](https://webassembly.org/)
 - [asm.js](http://asmjs.org/)
+- [easing functions](https://easings.net/)
+- [贝塞尔曲线演示](https://cubic-bezier.com/)
 
 ### 游戏方向
 
