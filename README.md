@@ -192,6 +192,8 @@
 - [免费图标](https://www.easyicon.net/)
 - [在线转换字体](https://transfonter.org/)
 - [数据转图片](https://quickchart.io/)
+- [SVG Edit](https://www.svgviewer.dev/)
+- [SVG visualizer](https://svg-path-visualizer.netlify.app/)
 
 ### 文档&文章
 
