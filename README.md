@@ -11,6 +11,8 @@
   4. [原版](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
   5. [原版翻译](https://github.com/geeeeeeeeek/git-recipes/wiki/1.1-%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84-Git)
   6. [Git 的奇技淫巧](https://github.com/cucygh/git-tips)
+- Shell
+  1. [shell简明教程](https://www.zhaixue.cc/shell/shell-intro.html)
 - Webpack
   1. [文档](https://doc.webpack-china.org/concepts/)
   2. [插件](https://doc.webpack-china.org/plugins/)
