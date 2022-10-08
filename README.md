@@ -13,6 +13,7 @@
   6. [Git 的奇技淫巧](https://github.com/cucygh/git-tips)
 - Shell
   1. [shell简明教程](https://www.zhaixue.cc/shell/shell-intro.html)
+  2. [linux 150 常用命令](https://cloud.tencent.com/developer/article/1540697)
 - Webpack
   1. [文档](https://doc.webpack-china.org/concepts/)
   2. [插件](https://doc.webpack-china.org/plugins/)
