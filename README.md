@@ -45,6 +45,8 @@
   2. [Docker 从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/why.html)
 - 逆向工程
   1. [压缩逆向恢复](http://www.jsnice.org/)
+- SVG
+  1. [SVG入门](https://flaviocopes.com/svg/)
 
 ### 前端框架
 
