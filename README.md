@@ -47,6 +47,7 @@
   1. [压缩逆向恢复](http://www.jsnice.org/)
 - SVG
   1. [SVG入门](https://flaviocopes.com/svg/)
+  2. [SVG基础教程](https://github.com/brucewar/svg-tutorial)
 
 ### 前端框架
 
