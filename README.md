@@ -48,6 +48,7 @@
 - SVG
   1. [SVG入门](https://flaviocopes.com/svg/)
   2. [SVG基础教程](https://github.com/brucewar/svg-tutorial)
+  3. [SVG描边动画](https://juejin.cn/post/6844903906061860878)
 
 ### 前端框架
 
