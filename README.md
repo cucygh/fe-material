@@ -17,7 +17,7 @@
 - Webpack
   1. [文档](https://doc.webpack-china.org/concepts/)
   2. [插件](https://doc.webpack-china.org/plugins/)
-- Paracle
+- Parcel
   1. [文档](https://parceljs.org/)
 - Gulp
   1. [文档](https://www.gulpjs.com.cn/)
