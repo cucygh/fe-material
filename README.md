@@ -103,6 +103,7 @@
   4. [anime](http://animejs.com/)
   5. [免费 SVG 图标](https://icomoon.io)
   6. [跨端动画方案](https://svga.io/)
+  7. [Canvas 礼花效果](https://www.kirilv.com/canvas-confetti/)
 - 视频播放器
   > 好用的视频播放器
   1. [xgplayer](https://github.com/bytedance/xgplayer)
